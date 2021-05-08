@@ -1,0 +1,11 @@
+node js framework that sits ontop of express
+
+adds structure to backend
+similar to angluar (typescript, services, injection)
+
+main.ts is entry point
+
+npm run start:dev
+- runs server with nodemon
+
+DTO - data transfer object
